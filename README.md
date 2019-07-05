@@ -37,12 +37,13 @@
 - Save and load model
 - Test a single image
 ### 5.3 A Great youtube video on Hands on Deep Learning with Keras
-- Youtube video: https://www.youtube.com/watch?v=BBIA6Wcu2j4
+- Youtube video: 
+	- https://www.youtube.com/watch?v=BBIA6Wcu2j4
 - Resources of above video.
 	- https://github.com/rragundez/PyDataAmsterdam2018
 
 ## 6 Intuition of Gradient Descent algorithm
-[SGD]:(https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+[SGD](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 ## 7 Introduction to google colab
  This is very important. You can use GPU machine to experiment Deep learning 
