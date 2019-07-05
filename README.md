@@ -41,7 +41,7 @@
 	- https://github.com/rragundez/PyDataAmsterdam2018
 
 ## 6 Intuition of Gradient Descent algorithm
-	- [SGD]:(https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+[SGD]:(https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 ## 7 Introduction to google colab
  This is very important. You can use GPU machine to experiment Deep learning 
