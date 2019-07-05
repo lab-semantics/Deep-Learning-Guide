@@ -7,7 +7,7 @@
 * [Python Cookbook](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Python_Cookbook_3rd%20Edition.pdf)
 * [Automate The Boring Stuff With Python](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/automate_the_boring_stuff_with_python.pdf)
 
-## 2.1 Congigure DL Environment and Indroduction to Anaconda
+## 2.1 Configure Deep Learning Environment and Indroduction to Anaconda
 ToDo
 ## 2.2 - Introduction to Numpy
 	-https://ml.howtocode.com.bd/undefined/numpy_primer
