@@ -1,3 +1,4 @@
+![alt text](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/images/logo-sl_small.png)
 # A smooth path to Semantics Lab
 
 ## 1.1 Basic python [ Structure + OOP]
