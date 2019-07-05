@@ -9,9 +9,9 @@
 ## 2 Introduction to Numpy
 	-https://ml.howtocode.com.bd/undefined/numpy_primer
 ## 3 Basic Staistical Operation using Python
-	-[Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
+[Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
 ## 4 Introduction to OpenCV
-	-[OpenCV](https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a)
+[OpenCV](https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a)
 
 ## 5 Indroduction to Keras and Building Frist NN
 
