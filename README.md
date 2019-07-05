@@ -7,7 +7,9 @@
 * [Python Cookbook](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Python_Cookbook_3rd%20Edition.pdf)
 * [Automate The Boring Stuff With Python](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/automate_the_boring_stuff_with_python.pdf)
 
-## 2 - Introduction to Numpy
+## 2.1 Congigure DL Environment and Indroduction to Anaconda
+ToDo
+## 2.2 - Introduction to Numpy
 	-https://ml.howtocode.com.bd/undefined/numpy_primer
 ## 3 - Basic Staistical Operation using Python
 [Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
