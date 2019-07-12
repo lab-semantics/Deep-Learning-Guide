@@ -2,7 +2,7 @@
 # A smooth path to Semantics Lab
 
 ## 1.1 - Basic python [ Structure + OOP]
- - https://python.howtocode.com.bd/
+ - [Python3 Intro](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/Python3)
 ### 1.2 - Books
 * [Python Cookbook](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Python_Cookbook_3rd%20Edition.pdf)
 * [Automate The Boring Stuff With Python](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/automate_the_boring_stuff_with_python.pdf)
