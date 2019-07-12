@@ -10,7 +10,7 @@
 ## 2.1 Configure Deep Learning Environment and Introduction to Anaconda
 ToDo
 ## 2.2 - Introduction to Numpy
-	-[Numpy intro](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
+- [Numpy intro](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
 ## 3 - Basic Staistical Operation using Python
 [Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
 ## 4 - Introduction to OpenCV
