@@ -10,11 +10,11 @@
 ## 2.1 Configure Deep Learning Environment and Introduction to Anaconda
 ToDo
 ## 2.2 - Introduction to Numpy
-	-https://ml.howtocode.com.bd/undefined/numpy_primer
+- [Numpy intro](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
 ## 3 - Basic Staistical Operation using Python
 [Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
 ## 4 - Introduction to OpenCV
-[OpenCV](https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a)
+[OpenCV](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/OpenCV-Intro)
 
 ## 5 - Indroduction to Keras and Building Frist NN
 
