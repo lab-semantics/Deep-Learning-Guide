@@ -3,7 +3,7 @@ Write any of the below category readme/jupyter_notebook post put link inside par
 
 
 # NLP Introduction
-- [Post_1]()
+- [Generate Bag Of Words](notebooks/generate_bag_of_words.ipynb)
 - [Post_2]()
 
 # NLP Tools
