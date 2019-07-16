@@ -8,13 +8,13 @@
 * [Automate The Boring Stuff With Python](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/automate_the_boring_stuff_with_python.pdf)
 
 ## 2.1 Configure Deep Learning Environment and Introduction to Anaconda
-ToDo
+   - [Manage-Environments](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Anaconda_intro/manage-environments.rst)
 ## 2.2 - Introduction to Numpy
-- [Numpy intro](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
+   - [Numpy intro](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
 ## 3 - Basic Staistical Operation using Python
-[Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
+   - [Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
 ## 4 - Introduction to OpenCV
-[OpenCV](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/OpenCV-Intro)
+   - [OpenCV](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/OpenCV-Intro)
 
 ## 5 - Indroduction to Keras and Building Frist NN
 
@@ -45,7 +45,7 @@ ToDo
 	- https://github.com/rragundez/PyDataAmsterdam2018
 
 ## 6 - Intuition of Gradient Descent algorithm
-[SGD](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+   - [Stochastic Gradient Descent ](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 ## 7 - Introduction to google colab
  This is very important. You can use GPU machine to experiment Deep learning 
@@ -60,7 +60,7 @@ ToDo
 - http://colab.research.google.com/
 
 ## 8 - Introduction to Basic Linux command lines
-	- https://sh.howtocode.com.bd/
+   - https://sh.howtocode.com.bd/
 
 ## 9 - Resources 
 - Basic Machine learning [ Bangla Tutorials]
