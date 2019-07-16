@@ -18,6 +18,8 @@
   - Class & Objet
   - Inheritence
   - Magic Method
+- [`Part - 6`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_6.ipynb)
+  - Python Module Vs Package 
   
 #### References
 - [https://python.howtocode.com.bd/](https://python.howtocode.com.bd/)
