@@ -16,36 +16,12 @@ ToDo
 ## 4 - Introduction to OpenCV
 [OpenCV](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/OpenCV-Intro)
 
-## 5 - Indroduction to Keras and Building Frist NN
+## 5 - Indroduction to Deep Learning
 
-### 5.1 - `Cat vs Dog` classification
-- Data collection
-- Data visualization 
-- Creating model
-- Compile model
-- Traning / Fit a model
-- Evaluating model
-- Visualizing the training process
-- Save and load model
-- Test a single image
-### 5.2 - `MNIST` https://towardsdatascience.com/introduction-to-deep-learning-with-keras-17c09e4f0eb2
-- Data collection
-- Data visualization 
-- Creating model
-- Compile model
-- Traning / Fit a model
-- Evaluating model
-- Visualizing the training process
-- Save and load model
-- Test a single image
-### 5.3 - A Great youtube video on Hands on Deep Learning with Keras
-- Youtube video: 
-	- https://www.youtube.com/watch?v=BBIA6Wcu2j4
-- Resources of above video.
-	- https://github.com/rragundez/PyDataAmsterdam2018
+- [Deep Learning Intro](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/DL_intro)
 
 ## 6 - Intuition of Gradient Descent algorithm
-[SGD](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+- [SGD](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 ## 7 - Introduction to google colab
  This is very important. You can use GPU machine to experiment Deep learning 
