@@ -46,7 +46,7 @@
 - `Basic Deep learning [ Bangla Tutorials ]`
 	- https://dl.howtocode.com.bd/
 - `Machine Learing Crash Course by Google`
-        - https://developers.google.com/machine-learning/crash-course/
+	- https://developers.google.com/machine-learning/crash-course/
 - Hand books on Deep learning
 	- [Deep_Learning_with_Python_by_Chollet](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_with_Python_by_Chollet.pdf)
 	- [Deep_Learning_by_Ian_Goodfellow](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_by_Ian_Goodfellow.pdf)
