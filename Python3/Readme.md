@@ -21,7 +21,7 @@
   - Generatores
 - [`Part - 4`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_4.ipynb)
   - File I/O 
-  - OS Module
+  - `os`, `walk`, `shutil`, `glob`
 - [`Part - 5`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_5_%5BOOP%5D.ipynb)
   - Class & Objet
   - Inheritence
