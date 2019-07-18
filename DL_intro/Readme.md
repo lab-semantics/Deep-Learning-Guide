@@ -1,5 +1,5 @@
 Index
-# Python 3 Index
+# Deep Learning Index
 - [`Part - 1`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/DL_intro/00_introduction.ipynb)
   - Introduction
 - [`Part - 2`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/DL_intro/01_deep_learning_basics.ipynb)

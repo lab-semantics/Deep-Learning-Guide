@@ -21,11 +21,9 @@
 - [Deep Learning Intro](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/DL_intro)
 
 ## 6 - Intuition of Gradient Descent algorithm
-<<<<<<< HEAD
-- [SGD](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
-=======
-   - [Stochastic Gradient Descent ](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
->>>>>>> c46f7cd4f59f3af54f258d8968f15f0acad07bcf
+
+- [Stochastic Gradient Descent ](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+
 
 ## 7 - Introduction to google colab
  This is very important. You can use GPU machine to experiment Deep learning 
