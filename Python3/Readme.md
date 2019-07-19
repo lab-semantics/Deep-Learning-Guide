@@ -1,7 +1,7 @@
 # Python 3 Index
 - [`Part - 0`]()
-  - ![Python Interpreter Download](https://www.python.org/downloads/)
-  - ![Text Editor](https://code.visualstudio.com/)
+  - [Python Interpreter Download](https://www.python.org/downloads/)
+  - [Text Editor](https://code.visualstudio.com/)
   - Hello World
   - Basic Operators (//, /, **, *)
   - Flow Control
