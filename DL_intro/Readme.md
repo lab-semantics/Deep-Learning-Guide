@@ -17,3 +17,4 @@ Index
   
 #### References
 - [https://keras.io/](https://keras.io/)
+- [Machine Learning Zero to Hero (Google I/O'19)](https://youtu.be/VwVg9jCtqaU?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV)
