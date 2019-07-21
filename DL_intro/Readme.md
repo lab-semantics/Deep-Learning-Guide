@@ -1,4 +1,3 @@
-Index
 # Deep Learning Index
 - [`Part - 1`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/DL_intro/00_introduction.ipynb)
   - Introduction
@@ -17,5 +16,6 @@ Index
   
 #### References
 - [https://keras.io/](https://keras.io/)
+- [https://www.tensorflow.org/](https://www.tensorflow.org/)
 - [Machine Learning Zero to Hero (Google I/O'19)](https://youtu.be/VwVg9jCtqaU?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV)
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
