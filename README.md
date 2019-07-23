@@ -8,44 +8,22 @@
 * [Automate The Boring Stuff With Python](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/automate_the_boring_stuff_with_python.pdf)
 
 ## 2.1 Configure Deep Learning Environment and Introduction to Anaconda
-ToDo
+   - [Manage-Environments](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Anaconda_intro/manage-environments.rst)
 ## 2.2 - Introduction to Numpy
-	-https://ml.howtocode.com.bd/undefined/numpy_primer
+   - [Numpy intro](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
 ## 3 - Basic Staistical Operation using Python
-[Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
+   - [Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
 ## 4 - Introduction to OpenCV
-[OpenCV](https://medium.com/@rinu.gour123/ai-python-computer-vision-tutorial-with-opencv-b7f86c3c6a1a)
+   - [OpenCV](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/OpenCV-Intro)
 
-## 5 - Indroduction to Keras and Building Frist NN
+## 5 - Indroduction to Deep Learning
 
-### 5.1 - `Cat vs Dog` classification
-- Data collection
-- Data visualization 
-- Creating model
-- Compile model
-- Traning / Fit a model
-- Evaluating model
-- Visualizing the training process
-- Save and load model
-- Test a single image
-### 5.2 - `MNIST` https://towardsdatascience.com/introduction-to-deep-learning-with-keras-17c09e4f0eb2
-- Data collection
-- Data visualization 
-- Creating model
-- Compile model
-- Traning / Fit a model
-- Evaluating model
-- Visualizing the training process
-- Save and load model
-- Test a single image
-### 5.3 - A Great youtube video on Hands on Deep Learning with Keras
-- Youtube video: 
-	- https://www.youtube.com/watch?v=BBIA6Wcu2j4
-- Resources of above video.
-	- https://github.com/rragundez/PyDataAmsterdam2018
+- [Deep Learning Intro](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/DL_intro)
 
 ## 6 - Intuition of Gradient Descent algorithm
-[SGD](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+
+- [Stochastic Gradient Descent ](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+
 
 ## 7 - Introduction to google colab
  This is very important. You can use GPU machine to experiment Deep learning 
@@ -60,13 +38,15 @@ ToDo
 - http://colab.research.google.com/
 
 ## 8 - Introduction to Basic Linux command lines
-	- https://sh.howtocode.com.bd/
+   - https://sh.howtocode.com.bd/
 
 ## 9 - Resources 
-- Basic Machine learning [ Bangla Tutorials]
+- `Basic Machine learning [ Bangla Tutorials]`
 	- https://ml.howtocode.com.bd/
-- Basic Deep learning [ Bangla Tutorials ]
+- `Basic Deep learning [ Bangla Tutorials ]`
 	- https://dl.howtocode.com.bd/
+- `Machine Learing Crash Course by Google`
+	- https://developers.google.com/machine-learning/crash-course/
 - Hand books on Deep learning
 	- [Deep_Learning_with_Python_by_Chollet](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_with_Python_by_Chollet.pdf)
 	- [Deep_Learning_by_Ian_Goodfellow](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_by_Ian_Goodfellow.pdf)
