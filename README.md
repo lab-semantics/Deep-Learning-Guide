@@ -42,7 +42,6 @@
 
 ## 9 - Resources 
 -  `Numpy and Image processing`
-
        - https://note.nkmk.me/en/python-numpy-image-processing/
 - `Basic Machine learning [ Bangla Tutorials]`
 	- https://ml.howtocode.com.bd/
@@ -53,3 +52,5 @@
 - `Hand books on Deep learning`
 	- [Deep_Learning_with_Python_by_Chollet](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_with_Python_by_Chollet.pdf)
 	- [Deep_Learning_by_Ian_Goodfellow](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_by_Ian_Goodfellow.pdf)
+- `Basic tensor operations [ Tensorflow ]`
+	- [Tensor Operations](https://www.guru99.com/tensor-tensorflow.html)
