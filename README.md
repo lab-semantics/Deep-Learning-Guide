@@ -42,7 +42,8 @@
 
 ## 9 - Resources 
 -  `Numpy and Image processing`
-       - https://note.nkmk.me/en/python-numpy-image-processing/
+
+      - https://note.nkmk.me/en/python-numpy-image-processing/
 - `Basic Machine learning [ Bangla Tutorials]`
 	- https://ml.howtocode.com.bd/
 - `Basic Deep learning [ Bangla Tutorials ]`
