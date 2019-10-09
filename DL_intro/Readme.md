@@ -19,4 +19,4 @@
 - [https://www.tensorflow.org/](https://www.tensorflow.org/)
 - [Machine Learning Zero to Hero (Google I/O'19)](https://youtu.be/VwVg9jCtqaU?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV)
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
-- [Implement CNN using only Numpy](https://towardsdatascience.com/building-convolutional-neural-network-using-numpy-from-scratch-b30aac50e50a)
+- [Implement CNN using only Numpy](https://victorzhou.com/blog/intro-to-cnns-part-1/)
