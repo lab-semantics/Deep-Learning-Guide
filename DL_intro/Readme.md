@@ -20,3 +20,4 @@
 - [Machine Learning Zero to Hero (Google I/O'19)](https://youtu.be/VwVg9jCtqaU?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV)
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [Implement CNN using only Numpy](https://victorzhou.com/blog/intro-to-cnns-part-1/)
+- [Tensorflow 2.0 + Keras crash course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=YRFwVySi3biu)
