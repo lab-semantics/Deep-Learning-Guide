@@ -29,29 +29,20 @@
  This is very important. You can use GPU machine to experiment Deep learning 
  algorithm. Which is not possible if you use CPU machine.
 	
-- Get started with Google Colaboratory
-	-  https://www.youtube.com/watch?v=inN8seMm7UI
-- Google Colaboratory Notebook Tutorial with GPU (Very Easy)
-	- https://www.youtube.com/watch?v=f1UK8KPt-KU
-- A Simpe Neural network with Tensorflow-Keras using Colaboratory
-	- https://www.youtube.com/watch?v=6_upGYUtjdU
-- http://colab.research.google.com/
+- [Get started with Google Colaboratory](https://www.youtube.com/watch?v=inN8seMm7UI)
+- [Google Colaboratory Notebook Tutorial with GPU](https://www.youtube.com/watch?v=f1UK8KPt-KU)
+- [A Simpe Neural network with Tensorflow-Keras using Colaboratory](https://www.youtube.com/watch?v=6_upGYUtjdU)
 
 ## 8 - Introduction to Basic Linux command lines
    - https://sh.howtocode.com.bd/
 
 ## 9 - Resources 
--  `Numpy and Image processing`
+- [Numpy and Image processing](https://note.nkmk.me/en/python-numpy-image-processing/)
+- [Basic Machine learning (Bangla Tutorials)](https://ml.howtocode.com.bd/)
+- [Basic Deep learning (Bangla Tutorials)](https://dl.howtocode.com.bd/)
+- [Machine Learing Crash Course by Google](https://developers.google.com/machine-learning/crash-course/)
+- [Basic tensor operations (Tensorflow)](https://www.guru99.com/tensor-tensorflow.html)
 
-      - https://note.nkmk.me/en/python-numpy-image-processing/
-- `Basic Machine learning [ Bangla Tutorials]`
-	- https://ml.howtocode.com.bd/
-- `Basic Deep learning [ Bangla Tutorials ]`
-	- https://dl.howtocode.com.bd/
-- `Machine Learing Crash Course by Google`
-	- https://developers.google.com/machine-learning/crash-course/
-- `Hand books on Deep learning`
-	- [Deep_Learning_with_Python_by_Chollet](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_with_Python_by_Chollet.pdf)
-	- [Deep_Learning_by_Ian_Goodfellow](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_by_Ian_Goodfellow.pdf)
-- `Basic tensor operations [ Tensorflow ]`
-	- [Tensor Operations](https://www.guru99.com/tensor-tensorflow.html)
+## 10 - Books 
+- [Deep_Learning_with_Python_by_Chollet](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_with_Python_by_Chollet.pdf)
+- [Deep_Learning_by_Ian_Goodfellow](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_by_Ian_Goodfellow.pdf)
