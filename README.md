@@ -42,6 +42,7 @@
 - [Basic Deep learning (Bangla Tutorials)](https://dl.howtocode.com.bd/)
 - [Machine Learing Crash Course by Google](https://developers.google.com/machine-learning/crash-course/)
 - [Basic tensor operations (Tensorflow)](https://www.guru99.com/tensor-tensorflow.html)
+- [Symbolic and imperative apis in tensorflow-2-0](https://medium.com/tensorflow/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0-dfccecb01021)
 
 ### 10 - Books 
 - [Deep_Learning_with_Python_by_Chollet](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Books/Deep_Learning_with_Python_by_Chollet.pdf)
