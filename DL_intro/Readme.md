@@ -21,3 +21,4 @@
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [Implement CNN using only Numpy](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 - [Tensorflow 2.0 + Keras crash course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=YRFwVySi3biu)
+- [হাতেকলমে পাইথন ডিপ লার্নিং রকিবুল হাসান](https://rakibul-hassan.gitbook.io/deep-learning/)
